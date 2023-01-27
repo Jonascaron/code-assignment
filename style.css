@@ -1,0 +1,47 @@
+/* assignment 01 */
+#assignment-01 {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#assignment-01 .block {
+    margin: 0 5px;
+}
+
+#assignment-01 .groot {
+    width: 100%;
+}
+
+#assignment-01 .klein {
+    width: 60%;
+}
+
+.paars {
+    background-color: purple;
+}
+
+.groen {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.blauw {
+    background-color: blue;
+}
+
+/* assignment 02*/
+#assignment-02 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#assignment-02 .block {
+    background-color: blue;
+}
+
+.top-margin-100px {
+    margin-top: 100px;
+}
